@@ -1,0 +1,5 @@
+### PatJack.co.uk Downloads
+
+This repository uses [GitHub Pages](http://pages.github.com) to host downloads which are distributed via [PatJack.co.uk](http://patjack.co.uk)
+
+View the downloads folder for a list of files hosted, or visit [Patrick Robertson's blog](http://patjack.co.uk) for articles relating to the files.
